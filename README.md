@@ -22,7 +22,7 @@ This project presents a hybrid AHP–Apriori framework for analysing road accide
 ### Association Rule Analysis
 ![Apriori](outputs/association_rules.png)
 
-## Technologies Used
+## Tech used
 
 - Python
 - Pandas
