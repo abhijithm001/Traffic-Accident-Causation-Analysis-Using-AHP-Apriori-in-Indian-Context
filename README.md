@@ -11,6 +11,17 @@ This project presents a hybrid AHP–Apriori framework for analysing road accide
 - Stormy Weather + Pedestrian produced the highest fatality rate (36.8%)
 - The framework identified hidden multi-factor accident patterns not visible through single-variable analysis
 
+  ## Results
+
+### Cramer's V Ranking
+![Cramers V](outputs/cramers_v_ranking.png)
+
+### AHP Weights
+![AHP](outputs/ahp_weights.png)
+
+### Association Rule Analysis
+![Apriori](outputs/association_rules.png)
+
 ## Technologies Used
 
 - Python
